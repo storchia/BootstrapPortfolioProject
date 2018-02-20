@@ -4,6 +4,9 @@
 .navbar {
   margin-bottom: 0;
 }
+.navbar-brand {
+  font-size: 30px;
+}
 
 /* CUSTOMIZED CAROUSEL
 -------------------------------------------------- */
@@ -31,6 +34,10 @@
   height: 240px;
 }
 
+.glyphicon {
+  font-size: 50px;
+}
+
 @media (min-width: 768px) {
 
   /* Bump up size of carousel content */
@@ -40,6 +47,9 @@
     line-height: 1.4;
   }
 
+}
+.row {
+  text-align: center;
 }
 
 /* MARKETING
